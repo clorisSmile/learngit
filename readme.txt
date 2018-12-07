@@ -1,1 +1,1 @@
-git is a version control system
+practice make everything perfect,so we should do not just say it.
